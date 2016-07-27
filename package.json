@@ -1,0 +1,16 @@
+{
+  "name": "ziplink-config",
+  "version": "1.0.0",
+  "description": "Configuration files for Ziplink",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziplink/ziplink-config.git"
+  },
+  "author": "Ziplink",
+  "bugs": {
+    "url": "https://github.com/Ziplink/ziplink-config/issues"
+  },
+  "homepage": "https://github.com/Ziplink/ziplink-config#readme"
+}
