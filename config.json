@@ -4,7 +4,7 @@
   },
   "mongo": {
     "URI": "mongodb://localhost/ziplink"
-  }
+  },
   "ziplink-passport-authentication": {
     "session": {
       "secret": ""
