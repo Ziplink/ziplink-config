@@ -2,7 +2,7 @@
   "ziplink-passport-authentication": {
     "session": {
       "secret": ""
-    }
+    },
     "providers": {
       "google": {
         "configured": true,
